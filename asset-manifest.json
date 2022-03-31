@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/experiment-web-socket-reconnect/static/css/main.073c9b0a.css",
+    "main.js": "/experiment-web-socket-reconnect/static/js/main.1b62e4d2.js",
+    "static/js/787.60ebdb74.chunk.js": "/experiment-web-socket-reconnect/static/js/787.60ebdb74.chunk.js",
+    "index.html": "/experiment-web-socket-reconnect/index.html",
+    "main.073c9b0a.css.map": "/experiment-web-socket-reconnect/static/css/main.073c9b0a.css.map",
+    "main.1b62e4d2.js.map": "/experiment-web-socket-reconnect/static/js/main.1b62e4d2.js.map",
+    "787.60ebdb74.chunk.js.map": "/experiment-web-socket-reconnect/static/js/787.60ebdb74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1b62e4d2.js"
+  ]
+}
